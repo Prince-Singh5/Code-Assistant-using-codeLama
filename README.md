@@ -27,5 +27,4 @@ It answers programming questions, explains code, and helps developers learn inte
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/codeguru-assistant.git
-   cd codeguru-assistant
+   git clone https://github.com/Prince-Singh5/Code-Assistant-using-codeLama.git
